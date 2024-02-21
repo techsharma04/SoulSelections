@@ -35,7 +35,7 @@ legend{
 }
 .signup-btn{
     align-self: flex-end;
-    width: 30%;
+    width: 35%;
 }
 .reg-btn{
     align-self: flex-end;
@@ -76,4 +76,42 @@ legend{
     display: flex;
     flex-direction: column;
     row-gap: 10px;
+}
+
+@media screen and (max-width: 800px) {
+    .signup-btn{
+        width: 50%;
+    }   
+    .form-sidebar{
+        display: flex;
+        column-gap: 20px;
+        justify-content: space-between;
+    }
+    .register_area{
+        width: 100%;
+    }
+    .login-form{
+        width: 100%;
+    }
+    .sidebar{
+        display: none;
+    }
+}
+@media screen and (max-width: 800px) {
+       
+    .form-sidebar{
+        display: flex;
+        row-gap: 20px;
+        flex-wrap: wrap;
+        justify-content: space-between;
+    }
+    .register_area{
+        width: 100%;
+    }
+    .login-form{
+        width: 100%;
+    }
+    .sidebar{
+        display: none;
+    }
 }
