@@ -1,18 +1,16 @@
 {
   "files": {
-    "main.css": "/SoulSelections/static/css/main.df636aa0.css",
-    "main.js": "/SoulSelections/static/js/main.26bc5a86.js",
-    "static/media/hcart.svg": "/SoulSelections/static/media/hcart.c74b3f75282b6327b2a9.svg",
-    "static/media/hwishlist.svg": "/SoulSelections/static/media/hwishlist.d9a1495c9c0752a7298e.svg",
-    "static/media/huser.svg": "/SoulSelections/static/media/huser.87eb51b09b7d9fb1bc3b.svg",
+    "main.css": "/SoulSelections/static/css/main.60dc8f62.css",
+    "main.js": "/SoulSelections/static/js/main.ee22936c.js",
+    "static/media/hcart.svg": "/SoulSelections/static/media/hcart.80f6b911c555cbe4a1e3.svg",
+    "static/media/hwishlist.svg": "/SoulSelections/static/media/hwishlist.aa5fdc95a8456239404b.svg",
+    "static/media/huser.svg": "/SoulSelections/static/media/huser.d277f47b173e3f4195c6.svg",
     "index.html": "/SoulSelections/index.html",
-    "static/media/menu_black.svg": "/SoulSelections/static/media/menu_black.60d3f92d54330b2f552b.svg",
-    "static/media/menu_white.svg": "/SoulSelections/static/media/menu_white.656e359f5097a84dbe3c.svg",
-    "main.df636aa0.css.map": "/SoulSelections/static/css/main.df636aa0.css.map",
-    "main.26bc5a86.js.map": "/SoulSelections/static/js/main.26bc5a86.js.map"
+    "main.60dc8f62.css.map": "/SoulSelections/static/css/main.60dc8f62.css.map",
+    "main.ee22936c.js.map": "/SoulSelections/static/js/main.ee22936c.js.map"
   },
   "entrypoints": [
-    "static/css/main.df636aa0.css",
-    "static/js/main.26bc5a86.js"
+    "static/css/main.60dc8f62.css",
+    "static/js/main.ee22936c.js"
   ]
 }
