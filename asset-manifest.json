@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/SoulSelections/static/css/main.60dc8f62.css",
+    "main.css": "/SoulSelections/static/css/main.1458ee40.css",
     "main.js": "/SoulSelections/static/js/main.ee22936c.js",
     "static/media/hcart.svg": "/SoulSelections/static/media/hcart.80f6b911c555cbe4a1e3.svg",
     "static/media/hwishlist.svg": "/SoulSelections/static/media/hwishlist.aa5fdc95a8456239404b.svg",
     "static/media/huser.svg": "/SoulSelections/static/media/huser.d277f47b173e3f4195c6.svg",
     "index.html": "/SoulSelections/index.html",
-    "main.60dc8f62.css.map": "/SoulSelections/static/css/main.60dc8f62.css.map",
+    "main.1458ee40.css.map": "/SoulSelections/static/css/main.1458ee40.css.map",
     "main.ee22936c.js.map": "/SoulSelections/static/js/main.ee22936c.js.map"
   },
   "entrypoints": [
-    "static/css/main.60dc8f62.css",
+    "static/css/main.1458ee40.css",
     "static/js/main.ee22936c.js"
   ]
 }
