@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/SoulSelections/static/css/main.56ed5c86.css",
-    "main.js": "/SoulSelections/static/js/main.ee22936c.js",
+    "main.css": "/SoulSelections/static/css/main.db5742ad.css",
+    "main.js": "/SoulSelections/static/js/main.15075cba.js",
     "static/media/hcart.svg": "/SoulSelections/static/media/hcart.80f6b911c555cbe4a1e3.svg",
     "static/media/hwishlist.svg": "/SoulSelections/static/media/hwishlist.aa5fdc95a8456239404b.svg",
     "static/media/huser.svg": "/SoulSelections/static/media/huser.d277f47b173e3f4195c6.svg",
     "index.html": "/SoulSelections/index.html",
-    "main.56ed5c86.css.map": "/SoulSelections/static/css/main.56ed5c86.css.map",
-    "main.ee22936c.js.map": "/SoulSelections/static/js/main.ee22936c.js.map"
+    "main.db5742ad.css.map": "/SoulSelections/static/css/main.db5742ad.css.map",
+    "main.15075cba.js.map": "/SoulSelections/static/js/main.15075cba.js.map"
   },
   "entrypoints": [
-    "static/css/main.56ed5c86.css",
-    "static/js/main.ee22936c.js"
+    "static/css/main.db5742ad.css",
+    "static/js/main.15075cba.js"
   ]
 }
