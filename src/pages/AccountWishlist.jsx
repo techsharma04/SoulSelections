@@ -26,7 +26,7 @@ const AccountWishList = (props) => {
                             <td><small><img src={items.image} alt={items.title} width={50} /></small></td>
                             <td><small>{items.title}</small></td>
                             <td><small>$ {items.price}</small></td>
-                            <td><small><button className="btn btn-dark" onClick={() => {dispatch(addToCart(items)); dispatch(clearWishlist(items)) }}>Move to cart</button></small></td>
+                            <td><small><button className="btn btn-dark wishlist-btn" onClick={() => {dispatch(addToCart(items)); dispatch(clearWishlist(items)) }}>Move to cart</button></small></td>
                         </tr>
                     ))}
 

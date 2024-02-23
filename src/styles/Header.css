@@ -142,7 +142,12 @@
   .logo-text{
     font-size: 20px!important;
   }
- 
+  .dropdown-menu{
+    width: 420px;
+  }
+  .cart-drop{
+    width: 100%;
+  }
   }
 @media screen and (max-width: 800px) {
   .header{
